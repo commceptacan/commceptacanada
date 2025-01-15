@@ -1,5 +1,5 @@
 @import "./_mixins.scss";
-@import "./_variables";
+@import "./_variables.scss";
 
 .page {
   @include flex-column-center-center;
