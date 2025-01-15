@@ -6,15 +6,6 @@
   width: 100vw;
   height: 100vh;
   background-color: $blue;
-  &_mountain {
-    width: 200px;
-    height: auto;
-    transform: scaleX(-1);
-  }
-  &_gwne {
-    font-size: 1rem;
-    color: $white;
-  }
   &_logo {
     width: 350px;
     height: auto;
